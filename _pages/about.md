@@ -2,8 +2,8 @@
 type: pages
 layout: single
 author_profile: true
-permalink: /about.html
+permalink: /about/
 title: "About"
 ---
 
-This company was founded by me. This company helps you get more value from your data. 
+This is my personal blog. This blog helps you get more value from your data. 
